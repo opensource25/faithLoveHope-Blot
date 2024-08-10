@@ -1,0 +1,2 @@
+The Artwork shows the Faith-Love-Hope Symbol in various color combinations. It was a hard but fun journey coding it in the school free time, especially with little experience with JS, even less with the blot specific parts. Also, I'm not the very good artist.
+The multiple versions show to progress I made in each arcade session coding it, but I also added the final Folder from [the PR](https://github.com/hackclub/blot/pull/728).
